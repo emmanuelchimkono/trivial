@@ -1,0 +1,10 @@
+Put files here that you want the chatbot to know about: FAQs, product info,
+notes, policies, a CV, anything.
+
+- Supported types: .md, .txt, .pdf
+- Files whose names start with an underscore (like this one) are ignored.
+- The bot reads ALL of these files with every message, so keep them focused.
+  A few dozen pages is fine. Hundreds of pages will be slow and costly.
+- PDFs need real text in them. Scanned images of pages won't work.
+- After adding or changing a file, push it to GitHub and the online app
+  picks it up automatically.
